@@ -7,13 +7,8 @@ It demonstrates an end-to-end ML workflow: data preprocessing, exploratory data 
 ---
 
 ## 📂 Dataset
-- **Rows:** 545
+- **Rows:** 1309
 - **Target Variable:** `price`
-- **Features:**
-  - `area`, `bedrooms`, `stories`
-  - `mainroad`, `guestroom`, `basement`
-  - `airconditioning`, `parking`, `prefarea`
-  - `furnishingstatus_furnished`, `furnishingstatus_unfurnished`
 
 ---
 
