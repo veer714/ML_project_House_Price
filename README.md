@@ -7,7 +7,7 @@ It demonstrates an end-to-end ML workflow: data preprocessing, exploratory data 
 ---
 
 ## 📂 Dataset
-- **Rows:** 1309
+- **Rows:** 545
 - **Target Variable:** `price`
 
 ---
